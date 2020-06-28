@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Blinker:wght@300&display=swap');
+body {
+  font-family: 'Blinker', sans-serif;
+ }
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+ul li {
+margin: 0 20px;
+cursor: pointer;
+}
+header {
+    background-color: black;
+    color: white ;
+    text-align: center;
+    padding: 50px 30px;
+}
+h1 {
+    font-size: 4em;
+}
+h2 {
+    font-size: 2em;
+}
+.cartoons {
+color: white;
+text-align: center;
+padding: 50px 20px;
+}
+h4 {
+    font-size: 2em;
+}
+#tomandjerry {
+    background-color: orange;
+}
+#doraemon {
+    background-color: hotpink;
+}
+#pokemon {
+    background-color: #4bbff8
+    ;
+}
